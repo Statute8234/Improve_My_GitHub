@@ -1,5 +1,4 @@
 # Improve_My_GitHub
-(0/68) = Seen And planning to workk on
 
 (68/68) = Done working
 
@@ -78,5 +77,5 @@ eXamine Code Review Feedback:
 YAML Configuration: 
 * Utilize YAML configuration files for settings, workflows, and other project configurations to maintain consistency and readability.
 
-Zero Tolerance for Code Smells: 
+Zero Tolerance for Code Smells: (1/68)
 * Strive to maintain a codebase with minimal code smells by regularly refactoring and improving code quality.
