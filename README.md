@@ -1,8 +1,8 @@
 # Improve_My_GitHub
 
-(68/68) = Done working
+(65/65) = Done working
 
-Add a README: (2/68)
+Add a README: (12/65)
 * Ensure each repository has a clear and informative README file to help users understand the project.
 
 Branch Management:
@@ -77,5 +77,5 @@ eXamine Code Review Feedback:
 YAML Configuration: 
 * Utilize YAML configuration files for settings, workflows, and other project configurations to maintain consistency and readability.
 
-Zero Tolerance for Code Smells: (1/68)
+Zero Tolerance for Code Smells:
 * Strive to maintain a codebase with minimal code smells by regularly refactoring and improving code quality.
