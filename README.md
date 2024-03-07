@@ -1,5 +1,8 @@
 # Improve_My_GitHub
-Add a README: 
+(0) = Currently working on
+(1) = Done working on it
+
+Add a README: 0
 * Ensure each repository has a clear and informative README file to help users understand the project.
 
 Branch Management:
