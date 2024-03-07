@@ -1,9 +1,9 @@
 # Improve_My_GitHub
-(0) = Currently working on
+(0/68) = Seen And planning to workk on
 
-(1) = Done working on it
+(68/68) = Done working
 
-Add a README: 0
+Add a README: (2/68)
 * Ensure each repository has a clear and informative README file to help users understand the project.
 
 Branch Management:
