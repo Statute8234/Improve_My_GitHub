@@ -1,6 +1,7 @@
 # Improve_My_GitHub
 
 (52/52) = Done working
+(43/52) = Everything except the starred projects
 
 Add a README: (43/52)
 * Ensure each repository has a clear and informative README file to help users understand the project.
