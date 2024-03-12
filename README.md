@@ -1,8 +1,8 @@
 # Improve_My_GitHub
 
-(65/65) = Done working
+(61/61) = Done working
 
-Add a README: (12/65)
+Add a README: (24/61)
 * Ensure each repository has a clear and informative README file to help users understand the project.
 
 Branch Management:
