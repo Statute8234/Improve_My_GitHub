@@ -1,15 +1,11 @@
-# Extra
-- renamining projects
-  
 # Improve_My_GitHub
 
-(63/63) = Done working
-(44/63) = Everything except the starred projects
+(70/70) = Done working
 
-Add a README: (44/63)
+Add a README: (70/70)
 * Ensure each repository has a clear and informative README file to help users understand the project.
 
-Branch Management:
+Branch Management: (0/70)
 * Practice using branches effectively for feature development, bug fixes, and experimentation.
 
 Contributor Guidelines:
