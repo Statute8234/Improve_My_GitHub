@@ -4,13 +4,13 @@
 
 - [News](#news)
 - [GitHub](#github)
-- [Style Guide](#style guide)
-  - [CSS](#css)
-  - [C#](#c)
-  - [HTML](#html)
-  - [Java](#java)
-  - [Python](#python)
-  - [SQL](#sql)
+- [Style Guide](#style_guide)
+  - [CSS](#CSS)
+  - [C#](#C)
+  - [HTML](#HTML)
+  - [Java](#Java)
+  - [Python](#Python)
+  - [SQL](#SQL)
 
 # News: 
 - (71/71) = Done working
@@ -96,7 +96,7 @@ YAML Configuration:
 Zero Tolerance for Code Smells:
 * Strive to maintain a codebase with minimal code smells by regularly refactoring and improving code quality.
 
-# Style Guide
+# Style_Guide
 
 ## CSS (CSS Coding Style Guide)
 
