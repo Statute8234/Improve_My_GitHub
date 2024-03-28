@@ -5,12 +5,6 @@
 - [News](#news)
 - [GitHub](#github)
 - [Style Guide](#style_guide)
-- [CSS](#CSS)
-- [C#](#C)
-- [HTML](#HTML)
-- [Java](#Java)
-- [Python](#Python)
-- [SQL](#SQL)
 
 # News: 
 - (71/71) = Done working
