@@ -4,6 +4,227 @@ News: Currently, adding images to the README files for some projects
 
 (71/71) = Done working
 
+# Style guide checklist
+
+## SQL ()
+
+## HTML
+
+## C#
+
+## JavaScript
+
+Arrow Functions: 
+  * A concise way to write function expressions in JavaScript using the arrow (=>) syntax. Arrow functions are often used for inline function expressions and have a more concise syntax compared to traditional function expressions.
+
+Camel Case: 
+  * A naming convention in which multiple words are joined together with no spaces, and each word's initial letter except the first is capitalized. Camel case is commonly used for naming variables, functions, and object properties in JavaScript.
+
+Callback Function: A
+  * function passed as an argument to another function, which is then invoked inside the outer function to perform some action. Callback functions are commonly used in asynchronous programming and event handling in JavaScript.
+
+Closure: 
+  * A function that captures and retains references to variables from its lexical scope, even after the outer function has finished executing. Closures allow for maintaining state and creating private variables in JavaScript.
+
+Constructor Function: 
+  * A function used to create and initialize objects with a specific structure and behavior. Constructor functions are typically invoked with the new keyword and are used to define custom object types in JavaScript.
+
+Event Listener: 
+  * A function that listens for a specific event to occur and executes a callback function when that event occurs. Event listeners are commonly used to handle user interactions and respond to changes in the browser environment.
+
+Hoisting: 
+  * A JavaScript behavior where variable and function declarations are moved to the top of their containing scope during the compilation phase. This allows variables and functions to be used before they are declared.
+
+Module: 
+  * A self-contained unit of code that encapsulates related functionality and can be reused across different parts of a JavaScript application. Modules help in organizing code, managing dependencies, and promoting code reusability.
+
+Promise: 
+  * An object representing the eventual completion or failure of an asynchronous operation in JavaScript. Promises simplify asynchronous programming by providing a more structured way to handle asynchronous tasks and their results.
+
+Strict Mode: 
+  * A JavaScript feature that enables a stricter set of rules for parsing and executing code. Strict mode helps in identifying and fixing common programming errors by enforcing better coding practices and preventing certain unsafe actions.
+
+Template Literal: 
+  * A string literal allowing embedded expressions, which are enclosed in ${}. Template literals provide a more concise and readable way to create strings with dynamic content compared to traditional string concatenation.
+
+Type Coercion: 
+  * A JavaScript feature where values of different types are automatically converted to a common type during operations. Understanding type coercion is important for avoiding unexpected behavior and writing robust JavaScript code.
+
+Variable Declaration: 
+  * The process of declaring a variable to reserve memory space and specify its name and type. Variable declarations in JavaScript can use keywords like var, let, and const to define variables with different scoping and mutability characteristics.
+
+Whitespace: 
+  * Spaces, tabs, and line breaks in code that are used for formatting and readability purposes. Consistent whitespace usage is important for maintaining code readability and adhering to a consistent coding style.
+    
+## CSS (CSS Coding Style Guide)
+
+Box Model: 
+  * A fundamental concept in CSS that describes the layout of elements on a web page. It consists of the content area, padding, border, and margin of an element.
+
+Cascading:
+  * The process by which multiple style rules are applied to an element, and conflicts are resolved based on specificity, importance, and source order.
+
+Class Selector: 
+  * A CSS selector that targets elements with a specific class attribute. It is denoted by a period (.) followed by the class name in the CSS rule.
+
+Comments: 
+  * Text in a CSS file that is not rendered by the browser and is used for documentation or to provide context for the code. Comments in CSS are denoted by /* */.
+
+Flexbox: 
+  * A layout model in CSS that allows for the creation of flexible and responsive layouts. It provides a more efficient way to align and distribute space among elements in a container.
+
+Grid Layout: 
+  * A layout model in CSS that allows for the creation of complex grid-based layouts. It enables precise control over the placement and alignment of elements within a grid container.
+
+ID Selector: 
+  * A CSS selector that targets a specific element with a unique ID attribute. It is denoted by a hash (#) followed by the ID name in the CSS rule.
+
+Media Queries: 
+  * Conditional statements in CSS that allow for the application of styles based on various device characteristics, such as screen size, resolution, and orientation. Media queries are commonly used for creating responsive designs.
+
+Normalize CSS: 
+  * A CSS reset or normalization stylesheet that aims to make browser styles consistent across different browsers by resetting or normalizing default styles.
+
+Pseudo-class: 
+  * A keyword added to a selector that specifies a special state of the selected element. Common pseudo-classes include :hover, :active, :focus, and :first-child.
+
+Pseudo-element: 
+  * A keyword added to a selector that specifies a specific part of the selected element. Common pseudo-elements include ::before, ::after, ::first-line, and ::first-letter.
+
+Selector: 
+  * A pattern used to select and style one or more elements in a document. Selectors can target elements based on their type, class, ID, attributes, or relationships with other elements.
+
+Specificity: 
+  * A measure of how specific a CSS rule is in targeting elements. Specificity determines which style rule takes precedence when multiple rules conflict.
+
+Units: 
+  * The measurement units used to define lengths, sizes, and positions in CSS. Common units include pixels (px), percentages (%), ems (em), and rems (rem).
+
+Vendor Prefixes: 
+  * Prefixes added to CSS properties to ensure compatibility with specific browsers or browser versions. Vendor prefixes are used for experimental or non-standard properties and are gradually phased out as standards are adopted.
+    
+## Java (The Java Language Specification)
+
+Abstract Method: 
+  * A method declared without an implementation in an abstract class or interface, which must be implemented by subclasses or implementing classes.
+
+Access Control: 
+  * The mechanism by which access to classes, interfaces, fields, and methods is regulated in Java, using access modifiers like public, protected, default (package-private), and private.
+
+Annotation:
+  * A form of metadata that provides data about a program but is not part of the program itself. Annotations have no direct effect on the operation of the code they annotate.
+
+Array: 
+  * A data structure that stores a fixed-size sequential collection of elements of the same type. In Java, arrays are objects, and they can be declared and initialized using square brackets [].
+
+Assignment: 
+  * The process of storing a value in a variable. In Java, assignment is performed using the assignment operator =.
+
+Block:
+  * A sequence of statements enclosed in braces {}. Blocks are used to group statements together and define scope in Java.
+
+Class:
+  * A blueprint for creating objects that define the properties and behaviors of objects. Classes in Java can have fields, methods, constructors, and nested classes.
+
+Compilation Unit:
+  * A source code file containing a Java program or a portion thereof, which can be compiled independently. Each compilation unit can contain one or more classes or interfaces.
+
+Expression: 
+  * A combination of variables, operators, and method calls that evaluates to a single value. Expressions can be used in assignments, method calls, and control flow statements.
+
+Field: 
+  * A variable declared within a class that represents the state of an object. Fields are also known as instance variables or member variables.
+
+Interface: 
+  * A reference type in Java that defines a set of abstract methods and constants. Interfaces cannot be instantiated but can be implemented by classes to provide concrete implementations of the abstract methods.
+
+Method: 
+  * A block of code that performs a specific task and may return a value. Methods are declared within classes and can be invoked to perform their defined functionality.
+
+Package: 
+  * A namespace that organizes a set of related classes and interfaces. Packages help in preventing naming conflicts and provide a modular structure for organizing code.
+
+Statement: 
+  * A complete unit of execution that performs a specific action. Statements in Java can include variable declarations, assignments, control flow constructs, method calls, and other expressions.
+
+Type: 
+  * A classification of data that specifies the possible values it can hold and the operations that can be performed on it. Types in Java include primitive types (e.g., int, double, boolean) and reference types (e.g., classes, interfaces, arrays).
+
+Variable: 
+  * A named storage location in memory that holds a value. Variables in Java can be declared with a specific type and may be assigned new values during program execution.
+    
+## Python (PEP 8)
+
+lank Lines
+  * Use blank lines sparingly to separate sections of code for readability.
+  * Surround top-level function and class definitions with two blank lines.
+  * Method definitions inside a class are surrounded by a single blank line.
+
+Coding Recommendations
+  * Follow Python's naming conventions.
+  * Use is and is not for comparison to None.
+  * Use isinstance() to compare types.
+
+Comments
+  * Use inline comments sparingly.
+  * Comments should be complete sentences.
+  * Use docstrings for all public modules, functions, classes, and methods.
+
+Documentation Strings (Docstrings)
+  * Write docstrings for all public modules, functions, classes, and methods.
+  * Docstrings should be surrounded by triple double quotes """.
+
+Imports
+  * Imports should usually be on separate lines.
+  * Imports should be grouped in the following order:
+      - Standard library imports.
+      - Related third-party imports.
+      - Local application/library specific imports.
+  * Each group should be separated by a blank line.
+  * Use a separate line for each import statement.
+  * Use a blank line between the standard library imports and third-party imports.
+  * Use a blank line between third-party imports and local application/library-specific imports.
+
+Imports Formatting
+  * Use a separate line for each import statement.
+  * Use a blank line between the standard library imports and third-party imports.
+  * Use a blank line between third-party imports and local application/library-specific imports.
+
+Indentation
+  * Use 4 spaces per indentation level.
+  * Continuation lines should align wrapped elements vertically.
+
+Maximum Line Length
+  * Limit all lines to a maximum of 79 characters.
+  * For comments or docstrings, limit lines to 72 characters.
+
+Naming Conventions
+  * Use ALL_CAPS for constants.
+  * Use CamelCase for class names.
+  * Use lowercase_with_underscores for function and variable names.
+  * Use lowercase_with_underscores for module names.
+  * Avoid single-letter variables except for counters or iterators.
+
+String Quotes
+  * Use single quotes ' for string literals unless the string contains a single quote character.
+
+Tabs or Spaces
+  * Use spaces, not tabs, for indentation.
+
+Whitespace Around Keywords and Parameter Assignments
+  * Avoid extraneous whitespace around the following:
+      - Keywords (if, while, for, with, try, except, finally, etc.).
+      - Parameter equals sign in a function definition.
+        
+Whitespace in Expressions and Statements
+  * Avoid extraneous whitespace in the following situations:
+      - Immediately inside parentheses, brackets, or braces.
+      - Between a trailing comma and a following close parenthesis.
+      - Avoid multiple statements on the same line.
+  * Always surround these binary operators with a single space on either side: assignment (=), augmented assignment (+=, -=, etc.), comparisons (==, <, >, !=, <>, <=, >=, in, not in, is, is not), Booleans (and, or, not).
+        
+# Improve_My_GitHub in general
+
 Add a README: (71/71)
 * Ensure each repository has a clear and informative README file to help users understand the project.
 
