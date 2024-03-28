@@ -8,11 +8,122 @@ News: Currently, adding images to the README files for some projects
 
 ## SQL ()
 
+Aliases
+ * Short names assigned to tables or columns in SQL queries for brevity and readability. Aliases can be used to simplify complex queries and improve code clarity by providing shorthand references to database objects.
+
+Case Sensitivity: 
+ * The property of a database system to differentiate between uppercase and lowercase letters in SQL identifiers and string comparisons. Understanding the case sensitivity rules of a database system is important for writing accurate SQL queries.
+
+Comments: 
+ * Explanatory notes added to SQL code to provide context, document assumptions, and clarify the purpose of queries or database structures. Comments help developers understand and maintain SQL code more effectively.
+
+Data Types: 
+ * The classification of data values in SQL based on their characteristics and storage requirements. SQL data types specify the kind of data that can be stored in a column of a table and define the operations that can be performed on that data.
+
+Indentation: 
+ * The practice of formatting SQL code with consistent and structured indentation to improve readability and maintainability. Indentation helps distinguish different parts of SQL queries and makes the code easier to follow.
+
+Join Syntax: 
+ * The syntax used to perform joins between tables in SQL queries. SQL supports different types of joins such as inner joins, outer joins, and cross joins, each with its own syntax for specifying the join condition.
+
+Naming Conventions: 
+ * Guidelines for naming database objects such as tables, columns, indexes, and constraints in SQL databases. Consistent naming conventions help developers understand the purpose and structure of database objects and facilitate collaboration in team environments.
+
+Query Structure: 
+ * The organization and layout of SQL queries, including the arrangement of clauses such as SELECT, FROM, WHERE, GROUP BY, HAVING, and ORDER BY. Following a consistent query structure improves code readability and comprehension.
+
+Quotes: 
+ * The characters used to delimit string literals and identifiers in SQL queries. SQL supports different types of quotes such as single quotes (') and double quotes (") for specifying strings and identifiers with spaces or special characters.
+
+Semicolons: 
+ * The punctuation mark used to terminate SQL statements and indicate the end of a query. While some database systems allow omitting semicolons in simple queries, it's a best practice to include them for clarity and consistency.
+
+Spacing: 
+ * The arrangement of spaces between keywords, operators, and clauses in SQL queries. Consistent spacing improves code readability and makes it easier to understand the logical structure of SQL statements.
+
+Subqueries: 
+ * Queries nested within other queries to perform more complex data retrieval and manipulation tasks. Subqueries can be used in SELECT, FROM, WHERE, and other clauses to filter, aggregate, or join data from multiple tables.
+
+Table Aliases: 
+ * Short names assigned to tables in SQL queries using the AS keyword. Table aliases are used to reference tables in multi-table queries and improve query readability by providing concise table identifiers.
+
+Transaction Management: 
+ * The process of ensuring the integrity and consistency of data in a database by grouping SQL statements into transactions and managing their execution. Proper transaction management is critical for maintaining data integrity in database applications.
+    
 ## HTML
 
+Attribute Ordering: 
+ * Guidelines for arranging HTML attributes within HTML tags in a consistent and logical order. Attribute ordering improves readability and maintainability of HTML code.
+
+Class Names: 
+ * Naming conventions for HTML class attributes used to apply CSS styles or JavaScript behaviors to HTML elements. Consistent class naming conventions help in organizing and styling HTML content effectively.
+
+Comments: 
+ * Guidelines for adding comments within HTML code to provide explanations, documentation, or reminders for developers. Comments in HTML should be concise, clear, and focused on explaining the purpose or intent of the code.
+
+Doctype Declaration: 
+ * A statement at the beginning of an HTML document that declares the HTML version being used and triggers standards mode rendering in web browsers. The doctype declaration ensures compatibility and consistent rendering across different browsers.
+
+Element Naming: 
+ * Naming conventions for HTML element tags to ensure clarity and consistency in markup structure. Descriptive and semantic element names improve code readability and maintainability.
+
+Indentation: 
+ * Guidelines for indenting HTML code to visually represent the hierarchical structure of the document. Consistent indentation enhances code readability and makes it easier to understand the document's structure.
+
+Quotation Marks: 
+ * Rules for choosing between single (') and double (") quotation marks when specifying attribute values in HTML. Consistent use of quotation marks improves code consistency and readability.
+
+Self-Closing Tags: 
+ * Guidelines for using self-closing tags in HTML for elements that do not have closing tags, such as <img> and <br>. Self-closing tags should be used consistently to maintain code clarity and compatibility.
+
+Tag Lowercasing: 
+ * Recommendations for using lowercase letters in HTML element tags to ensure consistency and compatibility with XHTML and XML standards. Using lowercase tags improves code readability and maintainability.
+
+Whitespace: 
+ * Guidelines for using whitespace (spaces, tabs, line breaks) within HTML code to improve readability and organization. Consistent whitespace usage enhances code clarity and makes it easier to understand the document's structure.
+    
 ## C#
 
-## JavaScript
+Access Modifiers: 
+ * Keywords used to specify the accessibility of types and members in C#. Common access modifiers include public, private, protected, and internal.
+
+Async/Await: 
+ * Keywords used in C# to implement asynchronous programming. async is used to define methods that can execute asynchronously, while await is used to asynchronously wait for the result of an asynchronous operation.
+
+Casing: 
+ * The convention used for naming identifiers such as variables, methods, and classes in C#. Common casing styles include camelCase, PascalCase, and snake_case.
+
+Comments: 
+ * Text added to source code to provide explanations, documentation, or annotations. Comments in C# can be single-line (//) or multi-line (/* */), and they are ignored by the compiler.
+
+Constants: 
+ * Variables whose values cannot be changed once they are assigned. Constants in C# are declared using the const keyword and must be initialized at the time of declaration.
+
+Delegates: 
+ * A type that represents references to methods with a specific signature. Delegates in C# allow methods to be passed as parameters and stored as variables, enabling powerful callback mechanisms and event handling.
+
+Exceptions: 
+ * Anomalies or errors that occur during the execution of a program. Exception handling in C# involves using try, catch, finally, and throw keywords to handle and manage exceptions gracefully.
+
+LINQ (Language Integrated Query): 
+ * A feature in C# that allows for querying collections and other data sources using a SQL-like syntax directly within the language. LINQ provides a powerful and expressive way to manipulate data in C#.
+
+Namespaces: 
+ * Containers used to organize and group related classes, interfaces, and other types in C#. Namespaces help in avoiding naming conflicts and organizing code into logical units.
+
+Nullability: 
+ * The ability for a variable or expression to represent the absence of a value (null). Nullability in C# can be indicated using nullable value types (Nullable<T>) or the null-conditional operator (?.).
+
+Properties: 
+ * Members of a class that encapsulate fields and provide controlled access to their values. Properties in C# are typically defined using get and set accessors and provide a way to enforce encapsulation and data validation.
+
+Regions: 
+ * Blocks of code in C# that can be collapsed or expanded in the code editor. Regions are often used to group related code sections and improve code organization and readability.
+
+Using Directives: 
+ * Statements that import namespaces into a C# file, allowing types from those namespaces to be used without fully qualifying their names. Using directives help in simplifying code and reducing verbosity.
+    
+## JavaScript (JavaScript Standard Style.)
 
 Arrow Functions: 
   * A concise way to write function expressions in JavaScript using the arrow (=>) syntax. Arrow functions are often used for inline function expressions and have a more concise syntax compared to traditional function expressions.
