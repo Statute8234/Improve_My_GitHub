@@ -7,15 +7,14 @@
 - [Style Guide](#style_guide)
 
 # News: 
-- (73/73) = Done working
 - Currently, adding images to the README files for some projects
         
 # GitHub
 
-Add a README: (72/73)
+Add a README:
 * Ensure each repository has a clear and informative README file to help users understand the project.
 
-Branch Management: (3/73)
+Branch Management:
 * Practice using branches effectively for feature development, bug fixes, and experimentation.
 
 Contributor Guidelines:
